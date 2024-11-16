@@ -45,7 +45,7 @@ Este projeto envolve a análise de salários para cargos na área de dados, util
 
 ## 6. Requisitos
 
-- **Python**: 3.x
+- **Python**: 3.12.7
 - **Bibliotecas**: pandas, sqlalchemy, pymysql
 - **MySQL Workbench**: Para criação do banco de dados
 - **Power BI Desktop**: Para criação dos gráficos e dashboards
